@@ -10,12 +10,6 @@
 ## Built with Core PHP, PHP PDO, Bootstrap4, Jquery, MYSQL.
 
 
-
-
-dwonload- https://projectworlds.in/free-projects/php-projects/house-rental-and-property-listing-project-php-mysql/
-
-
-
 installation of house rental and property listing project
 
 
